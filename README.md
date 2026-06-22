@@ -1,4 +1,4 @@
-# 📊 AstraVPN: App Review Analytics & Competitor Benchmarking
+# AstraVPN: App Review Analytics & Competitor Benchmarking
 
 ## Overview
 Analyzed 9,405 Google Play reviews from AstraVPN and key competitors (1.1.1.1 + WARP, NordVPN) to evaluate brand health, identify user pain points, and prioritize product improvements through an interactive Tableau dashboard.
